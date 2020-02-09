@@ -1,0 +1,18 @@
+body {
+	border:  10px ridge seagreen;
+	background-color: black;
+	color:seagreen;
+	font-family: Courier;
+
+}
+
+h1 {
+	padding-top: 100px;
+	font-size: 30px;
+	text-align: center;
+}
+
+p {
+	font-size: 12px;
+	padding-left: 100px;
+}
